@@ -1,0 +1,139 @@
+# genki_announcement POT.
+# This file is distributed under the same license as the genki_announcement package.
+# Masayan <mmrt1983@gmail.com>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-10-04 05:57+0200\n"
+"Last-Translator: Baris Unver <baris.unver@beyn.org>\n"
+"Language-Team: Baris Unver <baris.unver@beyn.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: TURKEY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: wp-content\plugins/genki_announcement.php:35
+#: wp-content\plugins/genki_announcement.php:147
+msgid "Genki Announcement"
+msgstr "Genki Announcement"
+
+#: wp-content\plugins/genki_announcement.php:125
+msgid "Options Updated!"
+msgstr "Seçenekler Güncellendi!"
+
+#: wp-content\plugins/genki_announcement.php:150
+msgid "Announcement status"
+msgstr "Duyuru durumu"
+
+#: wp-content\plugins/genki_announcement.php:152
+msgid "Dont't show announcement"
+msgstr "Duyuruyu gösterme"
+
+#: wp-content\plugins/genki_announcement.php:153
+msgid "Show above first post (may not work in some themes)"
+msgstr "İlk yazının üstünde göster (bazı temalarda çalışmayabilir)"
+
+#: wp-content\plugins/genki_announcement.php:154
+#, php-format
+msgid "Show in Widget (remember to activate the Genki Announcement Widget)"
+msgstr "Widget olarak göster (Genki Announcement Widget'ı etkinleştirmeniz gerektiğini unutmayın)"
+
+#: wp-content\plugins/genki_announcement.php:155
+msgid "Show where I insert the &lt;?php genki_announcement() ?> template function"
+msgstr "<?php genki_announcement() ?> fonksiyonunu koyduğum yerde göster"
+
+#: *new wp-content\plugins/genki_announcement.php:163
+msgid "Style Announcement Box"
+msgstr "Duyuru Kutusu Biçimlendirmesi"
+
+#: *new wp-content\plugins/genki_announcement.php:164
+msgid "Border Color"
+msgstr "Kenar Rengi"
+
+#: *new wp-content\plugins/genki_announcement.php:165
+msgid "Background Color"
+msgstr "Arkaplan Rengi"
+
+#: wp-content\plugins/genki_announcement.php:174
+msgid "Single message for all roles/users&nbsp;&nbsp;&nbsp;"
+msgstr "Tüm üyeler/roller için tek mesaj&nbsp;&nbsp;&nbsp;"
+
+#: wp-content\plugins/genki_announcement.php:175
+msgid "Different message for different roles/users"
+msgstr "Farklı üyelere/rollere farklı mesaj"
+
+#: wp-content\plugins/genki_announcement.php:181
+msgid "Message for All ~ HTML allowed"
+msgstr "Herkes için Mesaj ~ HTML kullanabilirsiniz"
+
+#: wp-content\plugins/genki_announcement.php:189
+msgid "Message for Guests ~ HTML allowed"
+msgstr "Ziyaretçiler için Mesaj ~ HTML kullanabilirsiniz"
+
+#: wp-content\plugins/genki_announcement.php:194
+msgid "Message for Subscribers ~ HTML allowed"
+msgstr "Subscriber'lar için Mesaj ~ HTML kullanabilirsiniz"
+
+#: wp-content\plugins/genki_announcement.php:199
+msgid "Message for Contributors ~ HTML allowed"
+msgstr "Contributor'lar için Mesaj ~ HTML kullanabilirsiniz"
+
+#: wp-content\plugins/genki_announcement.php:204
+msgid "Message for Authors ~ HTML allowed"
+msgstr "Yazarlar için Mesaj ~ HTML kullanabilirsiniz"
+
+#: wp-content\plugins/genki_announcement.php:209
+msgid "Message for Editors ~ HTML allowed"
+msgstr "Editörler için Mesaj ~ HTML kullanabilirsiniz"
+
+#: wp-content\plugins/genki_announcement.php:214
+msgid "Message for Admins ~ HTML allowed"
+msgstr "Yöneticiler için Mesaj ~ HTML kullanabilirsiniz"
+
+#: *new wp-content\plugins/genki_announcement.php:223
+msgid "Preview"
+msgstr "Önizleme"
+
+#: *new wp-content\plugins/genki_announcement.php:231
+msgid "Date to switch on announcement:"
+msgstr "Duyurunun açılacağı tarih"
+
+#: wp-content\plugins/genki_announcement.php:235
+#: wp-content\plugins/genki_announcement.php:250
+msgid "This feature requires Wordpress 2.1"
+msgstr "Bu özellik Wordpress v2.1 gerektirir"
+
+#: wp-content\plugins/genki_announcement.php:239
+#: wp-content\plugins/genki_announcement.php:254
+msgid "- Format = YYYY-MM-DD hh:mm e.g 2007-08-18 13:59<br />- The time now is"
+msgstr "- Biçim: YYYY-AA-GG ss:dd (örn. 2007-08-18 13:59)<br />- Şu an saat:"
+
+#: *new wp-content\plugins/genki_announcement.php:239
+msgid "- Leave blank to turn on immediately"
+msgstr "- Duyuru sürekli açık kalsın istiyorsanız boş bırakın"
+
+#: wp-content\plugins/genki_announcement.php:246
+msgid "Date to switch off announcement:"
+msgstr "Duyuruyu kapatmak için tarih:"
+
+#: wp-content\plugins/genki_announcement.php:254
+msgid "- Leave blank to turn off manually"
+msgstr "- Duyuruyu kendiniz kapatmak isterseniz boş bırakın"
+
+#: wp-content\plugins/genki_announcement.php:259
+msgid "Update Options &raquo;"
+msgstr "Seçenekleri Güncelle &raquo;"
+
+#: wp-content\plugins/genki_announcement.php:321
+msgid "Title:"
+msgstr "Başlık:"
+
+#: wp-content\plugins/genki_announcement.php:323
+#, php-format
+msgid "<label>To set your message and other options, go to <a href=\"%s/wp-admin/options-general.php?page=genki_announcement.php\">Genki Announcement Options page</a></label>"
+msgstr "<label>Mesajınızı ve diğer seçenekleri düzenlemek için lütfen <a href=\"%s/wp-admin/options-general.php?page=genki_announcement.php\">Genki Announcement Seçenekleri</a>ne gidiniz.</label>"
+

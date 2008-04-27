@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress Thread Comment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-04-20 20:35+0800\n"
+"PO-Revision-Date: 2008-04-20 20:35+0800\n"
+"Last-Translator: 偶爱偶家 <blog.2i2j.com@gmail.com>\n"
+"Language-Team: 偶爱偶家 <blog.2i2j.com@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: D:/SVN/wp-thread-comment\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: D:/SVN/wp-thread-comment\n"
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:183
+msgid "<div class=\"comment-childs<?php echo $deep%2 ? ' chalt' : ''; ?>\" id=\"comment-[ID]\"><?php if(function_exists(\"get_avatar\")) echo get_avatar( $comment, 32 ); ?><p>[author] <em>reply on [date] [time]</em>:</p>[content]</div>"
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:197
+msgid "Someone replied to your comment over at [blogname]"
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:199
+msgid ""
+"<p><strong>[blogname]</strong> inform respectfully: your comment on post <strong>[postname]</strong> now have new reply</p>\n"
+"<p>here is your comment:<br />\n"
+"[pc_content]</p>\n"
+"<p>here is new reply comment:<br />\n"
+"[cc_content]</p>\n"
+"<p>You can see detail for the comment on this post here:<br />\n"
+"<a href=\"[commentlink]\">[commentlink]</a></p>\n"
+"<p><strong>Thanks for your attention of <a href=\"[blogurl]\">[blogname]</a></strong></p>\n"
+"<p><strong>This email is sended by blog system automatically, don't reply this mail please.</strong></p>"
+msgstr ""
+
+# D:/SVN/wp-thread-comment/wp-thread-comment.php:401
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:330
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:644
+msgid "Reply"
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:339
+msgid "Nested Reply"
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:340
+msgid "Post Comment"
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:542
+msgid "Click to cancel reply"
+msgstr ""
+
+# D:/SVN/wp-thread-comment/wp-thread-comment.php:403
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:647
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:653
+msgid "Do you really want to delete the comment?"
+msgstr ""
+
+# D:/SVN/wp-thread-comment/wp-thread-comment.php:403
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:647
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:653
+msgid "Delete"
+msgstr ""
+
+# D:/plugins/wp-thread-comment/wp-thread-comment.php:160
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:736
+msgid "WP Thread Comment Option"
+msgstr ""
+
+# D:/plugins/wp-thread-comment/wp-thread-comment.php:160
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:736
+msgid "WP Thread Comment"
+msgstr ""
+
+# D:/plugins/wp-thread-comment/wp-thread-comment.php:190
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:746
+msgid "Options saved"
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:750
+msgid "All confriguration has been reset!"
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:763
+msgid "Memory Limit Set"
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:765
+msgid "Memory limit(number only):"
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:768
+msgid "if you cannot run plugin of memory limit low, Try to increase the memory limit, so can run the plugins. if leave null or 0, that will use memory limit by system default"
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:772
+msgid "Configuration AJAX"
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:774
+msgid "Enabled Ajax Support:"
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:777
+msgid "Check this box if you wish to use ajax when reply"
+msgstr ""
+
+# D:/plugins/wp-thread-comment/wp-thread-comment.php:203
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:781
+msgid "Edit Comment HTML"
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:785
+msgid "HTML and PHP both can be used. As a easier way, you may use the following tags: <strong>[ID]</strong> for comment ID, <strong>[author]</strong> for comment author, <strong>[date]</strong> for comment date, <strong>[time]</strong> for comment time and <strong>[content]</strong> for comment content."
+msgstr ""
+
+# D:/plugins/wp-thread-comment/wp-thread-comment.php:210
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:789
+msgid "Edit Comment CSS"
+msgstr ""
+
+# D:/plugins/wp-thread-comment/wp-thread-comment.php:214
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:793
+msgid "Use CSS only, HTML and PHP cannot be used."
+msgstr ""
+
+# D:/plugins/wp-thread-comment/wp-thread-comment.php:217
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:797
+msgid "Edit Comment Form ID"
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:802
+msgid "Change the commentform ID in comments.php according your theme. In most cases you were not need to do anything as it can be detected automatically."
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:807
+msgid "Edit maximum nest level"
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:809
+msgid "Thread Nest level(number only):"
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:812
+msgid "Comments cannot be replied more than this level."
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:816
+msgid "Email notify the parent commenter when his comment was replied"
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:818
+msgid "Disabled"
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:820
+msgid "Replied by the author of the post or administrator ONLY"
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:822
+msgid "Anyone replies"
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:827
+msgid "Edit the subject of notification email"
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:831
+msgid "Use TEXT only. As a easier way, you may use the following tags: <strong>[blogname]</strong> for blog name and <strong>[postname]</strong> for comment post name"
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:836
+msgid "Edit Notification Message"
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:840
+msgid "Use HTML only. As a easier way, you may use the following tags: <strong>[pc_date]</strong> for parent comment date, <strong>[pc_content]</strong> for parent comment content, <strong>[cc_author]</strong> for child comment author, <strong>[cc_date]</strong> for child comment date, <strong>[cc_url]</strong> for child comment author url, <strong>[cc_content]</strong> for child comment content, <strong>[commentlink]</strong> for parent comment link, <strong>[blogname]</strong> for blog name, <strong>[blogurl]</strong> for blog url and <strong>[postname]</strong> for post name."
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:844
+msgid "Reply in Wordpress Admin Panel"
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:846
+msgid "Reply in Wordpress Admin Panel:"
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:849
+msgid "check box if you want to Reply in Wordpress Admin Panel"
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:853
+msgid "Configuration action of deactivate"
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:855
+msgid "Delete options after deactivate:"
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:858
+msgid "check box if you want to delete all of options of wp thread comment after deactivate this plugin"
+msgstr ""
+
+# D:/plugins/wp-thread-comment/wp-thread-comment.php:233
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:862
+msgid "Update Options"
+msgstr ""
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:863
+msgid "Do you really want to reset your current configuration?"
+msgstr ""
+
+# D:/plugins/wp-thread-comment/wp-thread-comment.php:234
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:863
+msgid "Reset Options"
+msgstr ""
+

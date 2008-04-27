@@ -1,0 +1,135 @@
+# genki_announcement POT.
+# This file is distributed under the same license as the genki_announcement package.
+# Masayan <mmrt1983@gmail.com>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-06-19 19:06+0900\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: wp-content\plugins/genki_announcement.php:35
+#: wp-content\plugins/genki_announcement.php:143
+msgid "Genki Announcement"
+msgstr ""
+
+#: wp-content\plugins/genki_announcement.php:121
+msgid "Options Updated!"
+msgstr ""
+
+#: wp-content\plugins/genki_announcement.php:146
+msgid "Announcement status"
+msgstr ""
+
+#: wp-content\plugins/genki_announcement.php:148
+msgid "Dont't show announcement"
+msgstr ""
+
+#: wp-content\plugins/genki_announcement.php:149
+msgid "Show above first post (may not work in some themes)"
+msgstr ""
+
+#: wp-content\plugins/genki_announcement.php:150
+#, php-format
+msgid "Show in Widget (remember to activate the Genki Announcement Widget)"
+msgstr ""
+
+#: wp-content\plugins/genki_announcement.php:151
+msgid "Show where I insert the &lt;?php if(function_exists(\'genki_announcement\')) { genki_announcement(); } ?> template function"
+msgstr ""
+
+#: *new wp-content\plugins/genki_announcement.php:159
+msgid "Style Announcement Box"
+msgstr ""
+
+#: *new wp-content\plugins/genki_announcement.php:160
+msgid "Border Color"
+msgstr ""
+
+#: *new wp-content\plugins/genki_announcement.php:161
+msgid "Background Color"
+msgstr ""
+
+#: wp-content\plugins/genki_announcement.php:170
+msgid "Single message for all roles/users&nbsp;&nbsp;&nbsp;"
+msgstr ""
+
+#: wp-content\plugins/genki_announcement.php:171
+msgid "Different message for different roles/users"
+msgstr ""
+
+#: wp-content\plugins/genki_announcement.php:177
+msgid "Message for All ~ HTML allowed"
+msgstr ""
+
+#: wp-content\plugins/genki_announcement.php:185
+msgid "Message for Guests ~ HTML allowed"
+msgstr ""
+
+#: wp-content\plugins/genki_announcement.php:190
+msgid "Message for Subscribers ~ HTML allowed"
+msgstr ""
+
+#: wp-content\plugins/genki_announcement.php:195
+msgid "Message for Contributors ~ HTML allowed"
+msgstr ""
+
+#: wp-content\plugins/genki_announcement.php:200
+msgid "Message for Authors ~ HTML allowed"
+msgstr ""
+
+#: wp-content\plugins/genki_announcement.php:205
+msgid "Message for Editors ~ HTML allowed"
+msgstr ""
+
+#: wp-content\plugins/genki_announcement.php:210
+msgid "Message for Admins ~ HTML allowed"
+msgstr ""
+
+#: *new wp-content\plugins/genki_announcement.php:219
+msgid "Preview"
+msgstr ""
+
+#: *new wp-content\plugins/genki_announcement.php:227
+msgid "Date to switch on announcement:"
+msgstr ""
+
+#: wp-content\plugins/genki_announcement.php:231
+#: wp-content\plugins/genki_announcement.php:246
+msgid "This feature requires Wordpress 2.1 and above"
+msgstr ""
+
+#: wp-content\plugins/genki_announcement.php:235
+#: wp-content\plugins/genki_announcement.php:250
+msgid "- Format = YYYY-MM-DD hh:mm e.g 2007-08-18 13:59<br />- The time now is"
+msgstr ""
+
+#: *new wp-content\plugins/genki_announcement.php:235
+msgid "- Leave blank to turn on immediately"
+msgstr ""
+
+#: wp-content\plugins/genki_announcement.php:242
+msgid "Date to switch off announcement:"
+msgstr ""
+
+#: wp-content\plugins/genki_announcement.php:250
+msgid "- Leave blank to turn off manually"
+msgstr ""
+
+#: wp-content\plugins/genki_announcement.php:256
+msgid "Update Options &raquo;"
+msgstr ""
+
+#: wp-content\plugins/genki_announcement.php:296
+msgid "Title:"
+msgstr ""
+
+#: wp-content\plugins/genki_announcement.php:298
+#, php-format
+msgid "<label>To set your message and other options, go to <a href=\"%s/wp-admin/options-general.php?page=genki_announcement.php\">Genki Announcement Options page</a></label>"
+msgstr ""

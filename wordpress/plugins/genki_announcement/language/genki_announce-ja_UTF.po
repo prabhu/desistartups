@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Genki Announcement v1.3\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-10-31 15:38+0900\n"
+"Last-Translator: Masayan <mmrt1983@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: D:\\wordpress\n"
+"X-Poedit-SearchPath-0: wp-content\\plugins\n"
+
+#: wp-content\plugins/genki_announcement.php:35
+#: wp-content\plugins/genki_announcement.php:147
+msgid "Genki Announcement"
+msgstr "お知らせ設定"
+
+#: wp-content\plugins/genki_announcement.php:125
+msgid "Options Updated!"
+msgstr "オプションを更新しました。"
+
+#: wp-content\plugins/genki_announcement.php:150
+msgid "Announcement status"
+msgstr "お知らせ作動状態"
+
+#: wp-content\plugins/genki_announcement.php:152
+msgid "Dont't show announcement"
+msgstr "お知らせを表示しない"
+
+#: wp-content\plugins/genki_announcement.php:153
+msgid "Show above first post (may not work in some themes)"
+msgstr "最新投稿の上に表示する（若干のテーマで作動しないかもしれません）"
+
+#: wp-content\plugins/genki_announcement.php:154
+msgid "Show in Widget (remember to activate the Genki Announcement Widget)"
+msgstr "ウィジットを使用して表示する（Genki Announcement Widgetを使用可能にしてください）"
+
+#: wp-content\plugins/genki_announcement.php:155
+msgid "Show where I insert the &lt;?php genki_announcement() ?> template function"
+msgstr "コード &lt;?php genki_announcement() ?> をテーマの表示させたい個所に手動で挿入する"
+
+#: wp-content\plugins/genki_announcement.php:163
+msgid "Style Announcement Box"
+msgstr "お知らせ設定"
+
+#: wp-content\plugins/genki_announcement.php:164
+msgid "Border Color"
+msgstr "Border Color"
+
+#: wp-content\plugins/genki_announcement.php:165
+msgid "Background Color"
+msgstr "Background Color"
+
+#: wp-content\plugins/genki_announcement.php:174
+msgid "Single message for all roles/users&nbsp;&nbsp;&nbsp;"
+msgstr "すべてのユーザー権限者とゲスト読者に同じメッセージを表示する場合&nbsp;&nbsp;&nbsp;"
+
+#: wp-content\plugins/genki_announcement.php:175
+msgid "Different message for different roles/users"
+msgstr "ゲスト読者と各ユーザー権限ごとに違うメッセージを表示する場合"
+
+#: wp-content\plugins/genki_announcement.php:181
+msgid "Message for All ~ HTML allowed"
+msgstr "すべてのユーザー向けメッセージ（HTMLの使用可）"
+
+#: wp-content\plugins/genki_announcement.php:189
+msgid "Message for Guests ~ HTML allowed"
+msgstr "ゲスト向けメッセージ（HTML使用可能）"
+
+#: wp-content\plugins/genki_announcement.php:194
+msgid "Message for Subscribers ~ HTML allowed"
+msgstr "購読者向けメッセージ（HTML使用可能）"
+
+#: wp-content\plugins/genki_announcement.php:199
+msgid "Message for Contributors ~ HTML allowed"
+msgstr "寄稿者向けメッセージ（HTML使用可能）"
+
+#: wp-content\plugins/genki_announcement.php:204
+msgid "Message for Authors ~ HTML allowed"
+msgstr "投稿者向けメッセージ（HTML使用可能）"
+
+#: wp-content\plugins/genki_announcement.php:209
+msgid "Message for Editors ~ HTML allowed"
+msgstr "編集者向けメッセージ（HTML使用可能）"
+
+#: wp-content\plugins/genki_announcement.php:214
+msgid "Message for Admins ~ HTML allowed"
+msgstr "管理者向けメッセージ（HTML使用可能）"
+
+#: wp-content\plugins/genki_announcement.php:223
+msgid "Preview"
+msgstr "プレビュー"
+
+#: wp-content\plugins/genki_announcement.php:231
+msgid "Date to switch on announcement:"
+msgstr "お知らせ表示を終了する日時設定："
+
+#: wp-content\plugins/genki_announcement.php:235
+#: wp-content\plugins/genki_announcement.php:250
+msgid "This feature requires Wordpress 2.1"
+msgstr "WordPress 2.1以上が必要です"
+
+#: wp-content\plugins/genki_announcement.php:239
+#: wp-content\plugins/genki_announcement.php:254
+msgid "- Format = YYYY-MM-DD hh:mm e.g 2007-08-18 13:59<br />- The time now is"
+msgstr "- フォーマット例： 2007-08-18 13:59<br />- 現在の時刻： "
+
+#: wp-content\plugins/genki_announcement.php:239
+msgid "- Leave blank to turn on immediately"
+msgstr "- 空白の場合は手動でメッセージを消去してください"
+
+#: wp-content\plugins/genki_announcement.php:246
+msgid "Date to switch off announcement:"
+msgstr "お知らせ表示を終了する日時設定："
+
+#: wp-content\plugins/genki_announcement.php:254
+msgid "- Leave blank to turn off manually"
+msgstr "- 空白の場合は手動でメッセージを消去してください"
+
+#: wp-content\plugins/genki_announcement.php:260
+msgid "Update Options &raquo;"
+msgstr "設定を更新する &raquo;"
+
+#: wp-content\plugins/genki_announcement.php:321
+msgid "Title:"
+msgstr "タイトル:"
+
+#: wp-content\plugins/genki_announcement.php:323
+#, php-format
+msgid "<label>To set your message and other options, go to <a href=\"%s/wp-admin/options-general.php?page=genki_announcement.php\">Genki Announcement Options page</a></label>"
+msgstr "<label><a href=\"%s/wp-admin/options-general.php?page=genki_announcement.php\">お知らせ設定</a>でメッセージと他のオプションを設定してください。</label>"
+

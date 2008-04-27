@@ -1,0 +1,231 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress Thread Comment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-03-23 11:23+0800\n"
+"PO-Revision-Date: 2008-04-21 22:11+0800\n"
+"Last-Translator: 偶爱偶家 <blog.2i2j.com@gmail.com>\n"
+"Language-Team: Fargo <dlrapid@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Persian\n"
+"X-Poedit-Country: Iran\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: D:/SVN/wp-thread-comment\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: D:/SVN/wp-thread-comment\n"
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:183
+msgid "<div class=\"comment-childs<?php echo $deep%2 ? ' chalt' : ''; ?>\" id=\"comment-[ID]\"><?php if(function_exists(\"get_avatar\")) echo get_avatar( $comment, 32 ); ?><p>[author] <em>reply on [date] [time]</em>:</p>[content]</div>"
+msgstr "<div class=\"comment-childs<?php echo $deep%2 ? ' chalt' : ''; ?>\" id=\"comment-[ID]\"><?php if(function_exists(\"get_avatar\")) echo get_avatar( $comment, 32 ); ?><p>[author] <em>پاسخ در تاريخ [date] [time]</em>:</p>[content]</div>"
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:197
+msgid "Someone replied to your comment over at [blogname]"
+msgstr "يک نفر به نظر شما در وبلاگ [blogname] پاسخ داده است"
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:199
+msgid ""
+"<p><strong>[blogname]</strong> inform respectfully: your comment on post <strong>[postname]</strong> now have new reply</p>\n"
+"<p>here is your comment:<br />\n"
+"[pc_content]</p>\n"
+"<p>here is new reply comment:<br />\n"
+"[cc_content]</p>\n"
+"<p>You can see detail for the comment on this post here:<br />\n"
+"<a href=\"[commentlink]\">[commentlink]</a></p>\n"
+"<p><strong>Thanks for your attention of <a href=\"[blogurl]\">[blogname]</a></strong></p>\n"
+"<p><strong>This email is sended by blog system automatically, don't reply this mail please.</strong></p>"
+msgstr ""
+"<p><strong>[blogname]</strong> باخبر شويد: کامنت شما در پست <strong>[postname]</strong> يک پاسخ جديد دريافت کرده است</p>\n"
+"<p>اين کامنت شماست :<br />\n"
+"[pc_content]</p>\n"
+"<p>اين پاسخ به کامنت شماست :<br />\n"
+"[cc_content]</p>\n"
+"<p>جزييات بيشتر در مورد کامنت را مي‌توانيد در پست اصلي در اين آدرس ببينيد :<br />\n"
+"<a href=\"[commentlink]\">[commentlink]</a></p>\n"
+"<p><strong>ممنون از توجه‌تان به <a href=\"[blogurl]\">[blogname]</a></strong></p>\n"
+"<p><strong>اين ايميل به صورت خودکار فرستاده شده است، لطفا به آن پاسخ ندهيد</strong></p>"
+
+# D:/SVN/wp-thread-comment/wp-thread-comment.php:401
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:330
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:644
+msgid "Reply"
+msgstr "پاسخ"
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:339
+msgid "Nested Reply"
+msgstr "پاسخ تودرتو"
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:340
+msgid "Post Comment"
+msgstr "ارسال نظر"
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:542
+msgid "Click to cancel reply"
+msgstr "انصراف"
+
+# D:/SVN/wp-thread-comment/wp-thread-comment.php:403
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:647
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:653
+msgid "Do you really want to delete the comment?"
+msgstr "آیا واقعاً قصد حذف این نظر را دارید؟"
+
+# D:/SVN/wp-thread-comment/wp-thread-comment.php:403
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:647
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:653
+msgid "Delete"
+msgstr "حذف"
+
+# D:/plugins/wp-thread-comment/wp-thread-comment.php:160
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:736
+msgid "WP Thread Comment Option"
+msgstr "تنظیمات افزونه‌ی WP Thread Comment‌"
+
+# D:/plugins/wp-thread-comment/wp-thread-comment.php:160
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:736
+msgid "WP Thread Comment"
+msgstr "WP Thread Comment"
+
+# D:/plugins/wp-thread-comment/wp-thread-comment.php:190
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:746
+msgid "Options saved"
+msgstr "تنظیمات ذخیره شد"
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:750
+msgid "All confriguration has been reset!"
+msgstr "تنظیمات پیش‌فرض فعال شد"
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:763
+msgid "Memory Limit Set"
+msgstr "تنظيم حداکثر حافظه‌ي قابل استفاده"
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:765
+msgid "Memory limit(number only):"
+msgstr "حداکثر حافظه به عدد :"
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:768
+msgid "if you cannot run plugin of memory limit low, Try to increase the memory limit, so can run the plugins. if leave null or 0, that will use memory limit by system default"
+msgstr "اگر با مقدار پايين حافظه قادر به اجراي افزونه نيستيد، از مقدار بيشتري استفاده کنيد. اگر فيلد را صفر قرار دهيد، تنظيمات پيش‌فرض استفاده خواهند شد."
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:772
+msgid "Configuration AJAX"
+msgstr "پیکربندی AJAX"
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:774
+msgid "Enabled Ajax Support:"
+msgstr "استفاده از AJAX در نظرها :"
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:777
+msgid "Check this box if you wish to use ajax when reply"
+msgstr "اگر می‌خواهید از آژاکس در نظرها استفاده کنید، این گزینه را تیک بزنید"
+
+# D:/plugins/wp-thread-comment/wp-thread-comment.php:203
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:781
+msgid "Edit Comment HTML"
+msgstr "ویرایش کد نظر"
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:785
+msgid "HTML and PHP both can be used. As a easier way, you may use the following tags: <strong>[ID]</strong> for comment ID, <strong>[author]</strong> for comment author, <strong>[date]</strong> for comment date, <strong>[time]</strong> for comment time and <strong>[content]</strong> for comment content."
+msgstr "از کدهای HTML و PHP استفاده کنید. می‌توانید از کد <strong>[ID]</strong> برای شناسه‌ی نظر استفاده کنید، از کد <strong>[author]</strong> برای نویسنده‌ی نظر، از کد <strong>[date]</strong> برای تاریخ نظر، از کد <strong>[time]</strong> برای ساعت نظر و از کد <strong>[content]</strong> برای متن نظر،"
+
+# D:/plugins/wp-thread-comment/wp-thread-comment.php:210
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:789
+msgid "Edit Comment CSS"
+msgstr "ویرایش کد CSS نظر"
+
+# D:/plugins/wp-thread-comment/wp-thread-comment.php:214
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:793
+msgid "Use CSS only, HTML and PHP cannot be used."
+msgstr "فقط از کد CSS استفاده کنید، استفاده از کدهای PHP و HTML مجاز نیست."
+
+# D:/plugins/wp-thread-comment/wp-thread-comment.php:217
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:797
+msgid "Edit Comment Form ID"
+msgstr "ویرایش شناسه‌ی فرم نظر"
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:802
+msgid "Change the commentform ID in comments.php according your theme. In most cases you were not need to do anything as it can be detected automatically."
+msgstr "شناسه‌ی فرم نظر را وارد کنید. این شناسه در فایل comments.php در پوسته‌ی فعال‌تان قرار دارد. اگر از آن اطلاع ندارید، این‌جا را خالی بگذارید، خود افزونه قادر به شناسایی خودکار است."
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:807
+msgid "Edit maximum nest level"
+msgstr "ویرایش تعداد (عمق) نظرهای تو در تو"
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:809
+msgid "Thread Nest level(number only):"
+msgstr "تعداد نظرهای تو در تو به عدد"
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:812
+msgid "Comments cannot be replied more than this level."
+msgstr "نظرها از اين عمق بيشتر قابل پاسخ‌گويي نيستند"
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:816
+msgid "Email notify the parent commenter when his comment was replied"
+msgstr "ای‌میل کردن نظر اصلی اگر پاسخی ارسال شد :"
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:818
+msgid "Disabled"
+msgstr "ای‌میل کردن غیرفعال باشد"
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:820
+msgid "Replied by the author of the post or administrator ONLY"
+msgstr "تنها در صورتی که مدیر سایت یا شخص نویسنده‌ی نظر پاسخ دادند، ای‌میل کن."
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:822
+msgid "Anyone replies"
+msgstr "در صورت پاسخ هر کسی به نظر، آن را ای‌میل کن."
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:827
+msgid "Edit the subject of notification email"
+msgstr "ویرایش موضوع ای‌میل"
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:831
+msgid "Use TEXT only. As a easier way, you may use the following tags: <strong>[blogname]</strong> for blog name and <strong>[postname]</strong> for comment post name"
+msgstr "تنها از فرمت TEXT استفاده کنید. از کد <strong>[blogname]</strong> برای نام وب‌لاگ و از کد <strong>[postname]</strong> برای نام پست مربوط استفاده کنید."
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:836
+msgid "Edit Notification Message"
+msgstr "ویرایش متن ای‌میل"
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:840
+msgid "Use HTML only. As a easier way, you may use the following tags: <strong>[pc_date]</strong> for parent comment date, <strong>[pc_content]</strong> for parent comment content, <strong>[cc_author]</strong> for child comment author, <strong>[cc_date]</strong> for child comment date, <strong>[cc_url]</strong> for child comment author url, <strong>[cc_content]</strong> for child comment content, <strong>[commentlink]</strong> for parent comment link, <strong>[blogname]</strong> for blog name, <strong>[blogurl]</strong> for blog url and <strong>[postname]</strong> for post name."
+msgstr "تنها از کد HTML استفاده کنید. از کد <strong>[pc_date]</strong> برای نمایش تاریخ نظر اصلی، از کد <strong>[pc_content]</strong> برای نمایش متن نظر، از کد <strong>[cc_author]</strong> برای نمایش نویسنده‌ی پاسخ نظر اصلی، از کد <strong>[cc_date]</strong> برای نمایش تاریخ پاسخ نظر اصلی، از کد <strong>[cc_url]</strong> برای نمایش وب‌سایت نویسنده‌ی پاسخ نظر اصلی، از کد <strong>[cc_content]</strong> برای نمایش متن پاسخ نظر اصلی، از کد <strong>[commentlink]</strong> برای نمایش لینک نظر اصلی، از کد <strong>[blogname]</strong> برای نمایش نام وب‌لاگ، از کد <strong>[blogurl]</strong> برای نمایش لینک وب‌لاگ و از کد <strong>[postname]</strong> برای نمایش نام پست استفاده کنید."
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:844
+msgid "Reply in Wordpress Admin Panel"
+msgstr "پاسخ در بخش مديريت وردپرس"
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:846
+msgid "Reply in Wordpress Admin Panel:"
+msgstr "پاسخ در بخش مديريت وردپرس :"
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:849
+msgid "check box if you want to Reply in Wordpress Admin Panel"
+msgstr "اينجا را تيک بزنيد اگر مي‌خواهيد در بخش مديريت وردپرس پاسخ بدهيد"
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:853
+msgid "Configuration action of deactivate"
+msgstr "تنظیمات مربوط به غیرفعال کردن افزونه"
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:855
+msgid "Delete options after deactivate:"
+msgstr "پاک کردن تنظیمات بعد از غیرفعال کردن افزونه"
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:858
+msgid "check box if you want to delete all of options of wp thread comment after deactivate this plugin"
+msgstr "اگر بعد از غیرفعال کردن افزونه، می‌خواهید تنظیمات آن را پاک کنید، این گزینه را تیک بزنید"
+
+# D:/plugins/wp-thread-comment/wp-thread-comment.php:233
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:862
+msgid "Update Options"
+msgstr "تنظیمات به‌روز شود"
+
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:863
+msgid "Do you really want to reset your current configuration?"
+msgstr "آیا واقعاً قصد فعال کردن تنظیمات پیش‌فرض را دارید؟"
+
+# D:/plugins/wp-thread-comment/wp-thread-comment.php:234
+#: D:/SVN/wp-thread-comment/wp-thread-comment.php:863
+msgid "Reset Options"
+msgstr "تنظیمات پیش‌فرض فعال شود"
+

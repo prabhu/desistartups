@@ -1,0 +1,31 @@
+#sidebar ul {
+list-style-type : none;
+margin : 5px 0 5px 0px;
+padding : 0;
+background:white;
+border:1px solid #ECECEC;
+}
+
+#sidebar ul ul {
+padding: 0;
+margin: 7px 7px 7px 7px;
+border:none;
+}
+
+#sidebar ul li {
+display : block;
+padding : 0;
+margin : 0;
+list-style-type : none;
+background:none;
+border-top:1px solid white;
+}
+#sidebar ul li ul li {
+display : block;
+padding : 0 0 0 10px;
+margin : 0 0 5px 0;
+list-style-type : none;
+background:url(images/arrow.gif) left top no-repeat;
+background-position:0 3px;
+}
+

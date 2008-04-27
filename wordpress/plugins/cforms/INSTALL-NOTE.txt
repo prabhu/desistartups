@@ -1,0 +1,26 @@
+
+Installing the plugin 
+---------------------
+Please upload the complete plugin folder /cforms/, contained in 
+this zip file, to your WP plugin directory!
+
+If there is no /cforms/ root folder in this zip file, please create 
+one in your WordPress plugins/ folder.
+
+
+
+Updating the plugin 
+-------------------
+cforms v8+ supports one-click installer.
+
+If you update maually, please deactivate the plugin before you install 
+the update (replacing the current cforms dir with the new one)
+
+Also note that it is always advisable to make or keep a backup of your
+current plugin directory just in case you need to revert back to a 
+previous release!
+
+
+Localization:
+-------------
+Please read:  00_Plugin_Localization/Language-Support.txt
